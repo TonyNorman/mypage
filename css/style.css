@@ -1,5 +1,5 @@
 div {
-  border: 1px solid chocolate;
+  border: 1px solid inherit;
 }
 
 
@@ -105,3 +105,8 @@ button:hover{
   text-decoration: underline;
   cursor: pointer;
 }
+
+/*button{*/
+  background-color: blue;
+
+
